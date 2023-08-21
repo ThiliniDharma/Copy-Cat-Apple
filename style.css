@@ -149,7 +149,7 @@
     margin: 0 0 10px 0;
     background-size: cover;
 }
-.row.right-side-container {
+.row .right-side-container {
     background-image: url("assets/IpadPro.png");
     background-color: #000;
     padding-top: 35px;
